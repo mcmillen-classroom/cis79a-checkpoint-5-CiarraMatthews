@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question_text">What is egg</string>
+    
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+
+    <string name="previous_question">previous</string>
+    <string name="next_button">next</string>
+
+    <string name="cheat_warning">Did you really want to show the cheat?</string>
+    <string name="show_answer_button">Show Answer</string>
+
+    <string name="question_1">Is All Might Deku\'s biggest inspiration?</string>
+    <string name="question_2">Tsuyu\'s Hero name is Froppy?</string>
+    <string name="question_3">Is Yaomomo the shortest female character?</string>
+    <string name="question_4">Mina\'s quirk is super speed?</string>
+    <string name="question_5">Does Aizawa share a voice actor with Dandy of Space Dandy?</string>
+    <string name="question_6">Name one of the top 3 UA students: </string>
+    <string name="question_7">Which of the Wild, Wild PussyCats had their quirk stolen by All For One?</string>
+    <string name="hint_1">All Might is the number one Hero in Japan, where Deku lives</string>>
+    <string name="hint_2">Tsuyu is a frog girl</string>>
+    <string name="hint_3">Yaomomo is taller than at least 2 male characters</string>>
+    <string name="hint_4">Mina is not faster than Iida</string>>
+    <string name="hint_5">Aizawa\'s voice actor is popular in the industry</string>
+    <string name="hint_6">Vault Boy, Sasuke, and ADD girl</string>
+    <string name="hint_7">She shares a name with a popular cat breed</string>
+    <string name="check_button">Check</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="shame_the_cheaters">CHEATERS NEVER WIN</string>
+
+    <string-array name="question_6_answers">
+        <item>Mirio</item>
+        <item>Suneater</item>
+        <item>Nejire</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="question_7_answers">
+        <item name = "answer_1">Mandalay</item>
+        <item name = "answer_2">Tiger</item>
+        <item name = "answer_3">PixieBob</item>
+        <item name = "answer_4">RagDoll</item>
+    </string-array>
+</resources>
